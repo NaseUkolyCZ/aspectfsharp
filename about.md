@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This site is about the search for extending the [.NET](https://www.microsoft.com/net) [functional programming](https://en.wikipedia.org/wiki/Functional_programming) [F# language](http://fsharp.org/) with [aspect-oriented features](https://en.wikipedia.org/wiki/Aspect-oriented_programming).
+The work is based on [AspectML - Aspect-oriented Functional Programming Language Research](http://sip.cs.princeton.edu/projects/aspectml/).
+This site is located at [naseukoly.cz/aspectfsharp](http://www.naseukoly.cz/aspectfsharp/).
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+You can find the source codes for the AspectF# at:
+{% include icon-github.html username="NaseUkolyCZ" %} /
+[aspectfsharp](https://github.com/NaseUkolyCZ/aspectfsharp)
