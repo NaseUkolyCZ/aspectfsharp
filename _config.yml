@@ -7,7 +7,7 @@
 
 # Site settings
 title: AspectF# - .NET F#-based Aspect-oriented Functional Programming Language 
-email: info@fsharp.company
+email: developers@fsharp.company
 description: > # this means to ignore newlines until "baseurl:"
   In the hunt for .NET F#-based Aspect-oriented Functional Programming Language
 baseurl: "/aspectfsharp" # the subpath of your site, e.g. /blog
