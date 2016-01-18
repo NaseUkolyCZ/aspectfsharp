@@ -1,2 +1,11 @@
-source https://www.nuget.org/api/v2
-nuget FsBlog 1.0.1-alpha
+source https://nuget.org/api/v2
+
+nuget FSharp.Configuration
+nuget FSharp.Formatting
+nuget NuGet.CommandLine
+nuget FAKE
+nuget RazorEngine
+nuget suave
+nuget NUnit 
+nuget NUnit.Runners
+github forki/FsUnit FsUnit.fs
