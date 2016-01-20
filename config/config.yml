@@ -4,7 +4,7 @@
 
 url: http://www.naseukoly.cz/aspectfsharp/
 gitlocation: https://github.com/NaseUkolyCZ/aspectfsharp.git
-gitbranch: gh-pages-test
+gitbranch: gh-pages
 title: AspectF# - .NET F#-based Aspect-oriented Functional Programming Language
 description: >
     This project is about the path to find or create .NET F#-based

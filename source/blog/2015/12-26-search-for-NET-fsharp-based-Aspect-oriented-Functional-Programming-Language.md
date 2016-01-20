@@ -13,12 +13,11 @@ It seems except for [AspectML][aspectml] and [AspectFun][aspectfun] this area is
 
 We should be able to easily add logging to the `doTheWork` method.
 
-{% highlight fsharp %}
-[<Log>]
-let doTheWork argv =
-    printfn "%A" argv
-    Console.ReadLine() |> ignore		
-{% endhighlight %}
+
+    [<Log>]
+    let doTheWork argv =
+        printfn "%A" argv
+        Console.ReadLine() |> ignore		
 
 
 [fsharp]: http://jekyllrb.com/docs/home
