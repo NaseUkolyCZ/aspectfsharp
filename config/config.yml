@@ -2,15 +2,14 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://fsprojects.github.io/FsBlog
-gitlocation: https://github.com/fsprojects/FsBlog.git
-gitbranch: gh-pages
-title: FsBlog - F# static site generation
+url: http://www.naseukoly.cz/aspectfsharp/
+gitlocation: https://github.com/NaseUkolyCZ/aspectfsharp.git
+gitbranch: gh-pages-test
+title: AspectF# - .NET F#-based Aspect-oriented Functional Programming Language
 description: >
-    FsBlog aims to be a blog-aware static site generator, mostly built in F#. But don't worry, 
-    you won't even need to know any F# to get up and running. So long as you are comfortable 
-    using a command line or terminal, and have a degree of familiarity with Markdown and Razor 
-    syntax - you're good to go!
+    This project is about the path to find or create .NET F#-based
+    aspect-oriented functional programming language.
+    It seems except for AspectML and AspectFun this area is not explored too much.
 
 source: source/
 blog: source/blog/
