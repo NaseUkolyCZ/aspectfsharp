@@ -1,0 +1,26 @@
+<rss version="2.0">
+  <channel>
+    <title>AspectF# - .NET F#-based Aspect-oriented Functional Programming Language</title>
+    <link>http://www.naseukoly.cz/aspectfsharp/</link>
+    <description>This project is about the path to find or create .NET F#-based aspect-oriented functional programming language. It seems except for AspectML and AspectFun this area is not explored too much.
+</description>
+    <item>
+      <title>.NET in December 2015</title>
+      <guid>http://www.naseukoly.cz/aspectfsharp//blog/2015/12-28-dotnet-2015-12</guid>
+      <link>http://www.naseukoly.cz/aspectfsharp//blog/2015/12-28-dotnet-2015-12/index.html</link>
+      <pubDate>Mon, 28 Dec 2015 14:27:57 GMT</pubDate>
+      <description>
+
+</description>
+    </item>
+    <item>
+      <title>Search for .NET F#-based Aspect-oriented Functional Programming Language</title>
+      <guid>http://www.naseukoly.cz/aspectfsharp//blog/2015/12-26-search-for-NET-fsharp-based-Aspect-oriented-Functional-Programming-Language</guid>
+      <link>http://www.naseukoly.cz/aspectfsharp//blog/2015/12-26-search-for-NET-fsharp-based-Aspect-oriented-Functional-Programming-Language/index.html</link>
+      <pubDate>Sat, 26 Dec 2015 15:14:02 GMT</pubDate>
+      <description>
+
+</description>
+    </item>
+  </channel>
+</rss>
